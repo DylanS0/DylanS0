@@ -1,6 +1,6 @@
 <div align="center">
   
-  # Dylan Sosa - Full-Stack Developer 🤖
+  # Hi 👋, I'm Dylan Sosa 🤖
   
 </div>
 
@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,react,mysql,postgresql, git" />
+  <img src="https://skillicons.dev/icons?i=py,js,react,mysql,postgres, git" />
   <img src="./n8n-color.svg" width="48" height="48" alt="n8n" />
 </p>
 
