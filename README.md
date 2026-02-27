@@ -1,11 +1,18 @@
-# Dylan Sosa - Full-Stack Developer 🤖
+<div align="center">
+  
+  # Dylan Sosa - Full-Stack Developer 🤖
+  
+</div>
 
 <p align="center">
   <b>Fullstack Developer | Python | AI Automation | n8n | React | SQL</b>
 </p>
 
-<p align="center">
-  <a href="mailto:dsosaesquivel@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+---
+
+### 🛠 Tech Stack & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,js,react,n8n,mysql,postgresql,git" />
 </p>
 
 ---
@@ -19,19 +26,15 @@
 
 ---
 
-## 🛠 Skills & Technologies
-
-### 🛠 Tech Stack & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py,js,react,n8n,mysql,postgresql,git" />
-</p>
-
 ## 💼 Featured Projects
 
+---
 
+## Let's connect
 
-## 📊 Mi Actividad en GitHub
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=DylanS0&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DylanS0&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <a href="mailto:dsosaesquivel@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+
+
+
